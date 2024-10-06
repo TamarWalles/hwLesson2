@@ -1,0 +1,7 @@
+C:\Users\fwall\OneDrive\Documents\tamarstudy\c#\hwLesson2\hwLesson2\bin\Debug\hwLesson2.exe.config
+C:\Users\fwall\OneDrive\Documents\tamarstudy\c#\hwLesson2\hwLesson2\bin\Debug\hwLesson2.exe
+C:\Users\fwall\OneDrive\Documents\tamarstudy\c#\hwLesson2\hwLesson2\bin\Debug\hwLesson2.pdb
+C:\Users\fwall\OneDrive\Documents\tamarstudy\c#\hwLesson2\hwLesson2\obj\Debug\hwLesson2.csproj.AssemblyReference.cache
+C:\Users\fwall\OneDrive\Documents\tamarstudy\c#\hwLesson2\hwLesson2\obj\Debug\hwLesson2.csproj.CoreCompileInputs.cache
+C:\Users\fwall\OneDrive\Documents\tamarstudy\c#\hwLesson2\hwLesson2\obj\Debug\hwLesson2.exe
+C:\Users\fwall\OneDrive\Documents\tamarstudy\c#\hwLesson2\hwLesson2\obj\Debug\hwLesson2.pdb
